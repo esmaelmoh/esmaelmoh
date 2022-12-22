@@ -3,7 +3,7 @@
 <p>Enthusiastic and driven, I have a deep passion for software development and problem-solving. Through years of practice and many personal projects, I honed my skills as a programmer, developing a certain versatility in using technologies and coding languages. Knowledgeable of backend and frontend development requirements.  As I am mostly a self-learner, I can easily adapt to new things and am always ready to take on a challenge. </p>
 <h3 align="center">A passionate Full Stack Developer</h3>
 <hr/>
-<br/>
+
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esmaelmoh&label=Profile%20views&color=0e75b6&style=flat" alt="esmaelmoh" /> </p>
 
