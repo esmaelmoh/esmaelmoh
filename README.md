@@ -1,21 +1,35 @@
-<h1 align="center">Hi there, I'm Esmael Mohammed 👋</h1>
-<h3 align="center">A Passionate Senior Front-End & Mobile Developer</h3>
+<div align="center">
+  <h1>👋 Hi, I'm Esmael Mohammed!</h1>
+  <h3>A Passionate Senior Front-End & Mobile Developer 🚀</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=React+%26+React+Native+Developer;Next.js+%7C+Tailwind+CSS+%7C+Firebase" alt="Typing SVG" />
-</p>
+  <!-- Animated banner -->
+  <img src="https://media.giphy.com/media/3o85xk2laD2FZH6U4Y/giphy.gif" width="500px" alt="coding animation" />
 
-<p align="center">
-  <a href="https://github.com/your-username"><img alt="GitHub followers" src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" /></a>
-</p>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=React+%26+React+Native+Developer;Next.js+%7C+Tailwind+CSS+%7C+Firebase" alt="Typing SVG" />
+  </p>
 
-## 🚀 About Me
-I'm Esmael Mohammed, a seasoned Senior Front-End Developer with over 3 years of hands-on experience building scalable, high-performance web and mobile applications. I specialize in creating dynamic, SEO-friendly, and responsive web interfaces using React and Next.js, complemented by beautifully crafted designs with Tailwind CSS. On the mobile side, I leverage React Native and Expo to create seamless cross-platform applications for both iOS and Android. 
+  <p>
+    <a href="https://github.com/your-username">
+      <img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" alt="GitHub Followers" />
+    </a>
+    <a href="https://linkedin.com/in/your-linkedin">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn" />
+    </a>
+  </p>
+</div>
 
-My expertise extends to building robust SaaS solutions with scalable architectures, custom payment gateways, and secure Firebase integrations, always with an emphasis on performance, security, and scalability.
+## 🌟 About Me
+I'm **Esmael Mohammed**, a seasoned Senior Front-End Developer with over 3 years of hands-on experience in building scalable, high-performance web and mobile applications across industries like education, service booking, and SaaS. I excel in both frontend and cross-platform mobile development:
 
-## 🔧 Skills & Technologies
+- **Web:** Creating dynamic, SEO-friendly, and responsive interfaces with React, Next.js, and Tailwind CSS.
+- **Mobile:** Building seamless iOS and Android apps using React Native and Expo.
+- **SaaS:** Designing scalable architectures, integrating custom payment gateways, and utilizing Firebase for robust backend services.
+
+---
+
+## 💻 Skills & Technologies
+
 ### Frontend
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react) 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js) 
@@ -30,11 +44,9 @@ My expertise extends to building robust SaaS solutions with scalable architectur
 ### State Management
 ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat&logo=redux)
 
-### Backend & Services
+### Backend & Databases
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
 ![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?style=flat&logo=firebase)
-
-### Databases
 ![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=flat&logo=sqlite)
 
 ### Additional Skills
@@ -43,34 +55,25 @@ My expertise extends to building robust SaaS solutions with scalable architectur
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js)
 
-## 📁 Projects & Achievements
-- **Educational Platforms:** Developed interactive and responsive educational web applications with cutting-edge technology.
-- **Service Booking Platforms:** Architected and built scalable service booking solutions that ensure performance and reliability.
-- **SaaS Solutions:** Engineered custom SaaS applications with subscription management, secure authentication, and payment integrations.
-  
-## ⚡ What I Do
-- **Web Development:** Creating dynamic, SEO-friendly, and responsive web interfaces using React, Next.js, and Tailwind CSS.
-- **Mobile Development:** Building high-performance cross-platform mobile apps with React Native and Expo.
-- **SaaS Architectures:** Designing scalable architectures, implementing custom payment gateways, and integrating Firebase services.
-- **State Management:** Efficiently managing application state with Redux Toolkit.
-- **UI/UX Design:** Crafting user-centric interfaces with responsive design principles and immersive 3D integrations using Three.js.
+---
 
-## 🌱 Currently Learning
-- Advanced optimization techniques for large-scale React applications.
-- New mobile performance enhancements and cross-platform best practices.
-- Advanced 3D integrations and animations.
-
-## 🤝 Let's Connect
-I'm always excited to collaborate on innovative projects and help businesses achieve their objectives through technology-driven solutions. 
-
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin)
-- 🌐 [Portfolio/Website](https://your-portfolio.com)
-
-Let's collaborate and bring your ideas to life! 🚀
+## ✨ What I Do
+- **Web Development:** Crafting dynamic, SEO-friendly, and responsive interfaces.
+- **Mobile Development:** Creating high-performance cross-platform apps.
+- **SaaS Solutions:** Architecting scalable systems with secure payment integrations.
+- **State Management:** Optimizing user interactions with Redux Toolkit.
+- **UI/UX Design:** Designing user-centric interfaces with 3D integrations using Three.js.
 
 ---
 
-<p align="center">
+## 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Langs" />
+</div>
+
+---
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="profile views" />
-</p>
+</div>
