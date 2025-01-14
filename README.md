@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username"><img alt="GitHub followers" src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" /></a>
+  <a href="https://github.com/esmaelmoh"><img alt="GitHub followers" src="https://img.shields.io/github/followers/esmaelmoh?label=Follow&style=social" /></a>
+  <a href="https://linkedin.com/in/esmael-mohammed1"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" /></a>
 </p>
 
 ## 🚀 About Me
@@ -44,9 +44,20 @@ My expertise extends to building robust SaaS solutions with scalable architectur
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js)
 
 ## 📁 Projects & Achievements
-- **Educational Platforms:** Developed interactive and responsive educational web applications with cutting-edge technology.
-- **Service Booking Platforms:** Architected and built scalable service booking solutions that ensure performance and reliability.
-- **SaaS Solutions:** Engineered custom SaaS applications with subscription management, secure authentication, and payment integrations.
+- **Abeet Solutions - Cross-Platform Service Booking Platform:**
+  - Developed mobile apps with React Native/Expo and integrated custom payment solutions, deploying to both Google Play Store and Apple App Store.
+  
+- **Gmja Archive Website with Content Management Admin:**
+  - Built a platform displaying 3D models using Three.js and Firebase, creating an intuitive admin dashboard for content management.
+
+- **Tenastudy SaaS Platform:**
+  - Founded and launched Tenastudy, attracting 1,300+ active users and generating significant revenue through innovative product strategy and custom payment integrations.
+  
+- **GAT Study Mobile App:**
+  - Launched a comprehensive mobile application aiding students' test preparations, attracting 1,800+ users with robust offline capabilities and subscription management.
+
+- **BTS Solutions - Corporate Website Redesign:**
+  - Led a complete overhaul using Next.js and Tailwind CSS, boosting page load speed by 40% and improving SEO rankings by 25%.
   
 ## ⚡ What I Do
 - **Web Development:** Creating dynamic, SEO-friendly, and responsive web interfaces using React, Next.js, and Tailwind CSS.
@@ -55,13 +66,8 @@ My expertise extends to building robust SaaS solutions with scalable architectur
 - **State Management:** Efficiently managing application state with Redux Toolkit.
 - **UI/UX Design:** Crafting user-centric interfaces with responsive design principles and immersive 3D integrations using Three.js.
 
-## 🌱 Currently Learning
-- Advanced optimization techniques for large-scale React applications.
-- New mobile performance enhancements and cross-platform best practices.
-- Advanced 3D integrations and animations.
-
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=esmaelmoh&style=flat-square&color=blue" alt="profile views" />
 </p>
